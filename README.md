@@ -14,9 +14,6 @@ Acceptance criteria:
 -Basic CSS styling must be applied. (Show your creativity)
 -A document should be created which must have a well-defined Problem statement for your project, a detailed explanation of your application, and images of the final output.
 
-## Submitted Application Details:
-- hosted link: [https://photo-album-debo.netlify.app/](https://photo-album-debo.netlify.app/)
-
 ## The application is created using
 - React
 - React-query (for easy querying of data)
