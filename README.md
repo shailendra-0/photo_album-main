@@ -16,7 +16,6 @@ Acceptance criteria:
 
 ## Submitted Application Details:
 - hosted link: [https://photo-album-debo.netlify.app/](https://photo-album-debo.netlify.app/)
-- Submitted Application Github: [https://github.com/debojeetjha10/photo_album](https://github.com/debojeetjha10/photo_album)
 
 ## The application is created using
 - React
