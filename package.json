@@ -1,4 +1,5 @@
 {
+  "homepage": "https://shailendra-0.github.io/photo_album-main/",
   "name": "photogallery",
   "version": "0.1.0",
   "private": true,
@@ -6,17 +7,20 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "file-saver": "^2.0.5",
+    "gh-pages": "^6.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
-    "file-saver": "^2.0.5",
     "react-icons": "^4.8.0",
     "react-loader-spinner": "^5.3.4",
     "react-query": "^3.39.3",
-    "unsplash-js": "^7.0.15"
+    "react-scripts": "5.0.1",
+    "unsplash-js": "^7.0.15",
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --watchAll",
